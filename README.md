@@ -1,8 +1,10 @@
-## Developer Portfolio Landing Page Template
+## Michelle's Portfolio
 
 ### Introduction
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+
+Visit my portfolio [here](https://michellengnx.github.io/)
 
 <img src="images/demo.gif?raw=true"/>
 
