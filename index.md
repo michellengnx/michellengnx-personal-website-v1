@@ -10,13 +10,9 @@ Well, that's enough about myself from a third person.
 ---
 
 Hey! This is Michelle - the owner of this website. Welcome to my virtual home!
-
 My philosophy is, there's always something that I've yet to learn, people that I've yet to meet, and a better me that I've yet to become :). 
-
 That being said, I created this website to showcase my work and to reflect on my journey as an developer. 
-
 Outside of work, I read, I run or sometimes (or a lot of times) I just let myself get lost in a new Toronto neighbour that I've just discovered.
-
 
 Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a81170/)
 
