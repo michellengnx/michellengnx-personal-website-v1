@@ -24,14 +24,17 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 ### My Journey in Web Development
 
 [Spotify Clone](https://sharp-kowalevski-020c5c.netlify.app/)
+<p>"Angular is harder than React man!" - said Michelle as she cloned Spotify</p>
 <img src="images/spotify-clone.jpg?raw=true"/>
 
 ---
 [YelpCamp](https://michelle-yelp-camp.herokuapp.com/)
+<p>First project that involves backend and database</p>
 <img src="images/yelpcamp.jpg?raw=true"/>
 
 ---
-[My first boring To-do list](https://michelle-to-do-list.herokuapp.com/)
+[My first To-do list](https://michelle-to-do-list.herokuapp.com/)
+<p>Created to practice Node.js</p>
 <img src="images/todo-list.jpg?raw=true"/>
 
 ---
