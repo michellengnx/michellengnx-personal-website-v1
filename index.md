@@ -21,32 +21,27 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 
 ---
 
-### Category Name 1 
+### My Journey in Web Development
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spotify Clone](https://sharp-kowalevski-020c5c.netlify.app/)
+<img src="images/spotify-clone.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[YelpCamp](https://michelle-yelp-camp.herokuapp.com/)
+<img src="images/yelpcamp.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[My first boring To-do list](https://michelle-to-do-list.herokuapp.com/)
+This is the very first app I created using Javascript. 
+<img src="images/todo-list.jpg?raw=true"/>
 
 ---
 
 
+---
+
+### My Journey in Web Development
+What am I currently working on?
 
 
 ---
