@@ -32,6 +32,12 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 <p>First project that involves backend and database</p>
 <img src="images/yelpcamp.jpg?raw=true"/>
 
+
+
+---
+[Movie Rental Service](/)
+<p>My design skill got better I swear!</p>
+<img src="images/vudu.png?raw=true"/>
 ---
 [My first To-do list](https://michelle-to-do-list.herokuapp.com/)
 <p>Created to practice Node.js</p>
@@ -42,8 +48,7 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 
 ---
 
-### My Journey in Web Development
-What am I currently working on?
+
 
 
 ---
