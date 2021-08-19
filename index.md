@@ -38,6 +38,8 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 [Movie Rental Service](/)
 <p>My design skill got better I swear!</p>
 <img src="images/vudu.png?raw=true"/>
+
+
 ---
 [My first To-do list](https://michelle-to-do-list.herokuapp.com/)
 <p>Created to practice Node.js</p>
