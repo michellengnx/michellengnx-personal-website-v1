@@ -32,7 +32,6 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michelle-nguyen-713a
 
 ---
 [My first boring To-do list](https://michelle-to-do-list.herokuapp.com/)
-This is the very first app I created using Javascript. 
 <img src="images/todo-list.jpg?raw=true"/>
 
 ---
