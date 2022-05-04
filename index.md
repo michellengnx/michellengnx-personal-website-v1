@@ -44,9 +44,5 @@ Ping me a message on [Linkedin](https://www.linkedin.com/in/michellengnx/)
 <img src="images/todo-list.jpg?raw=true"/>
 
 ---
-
----
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
