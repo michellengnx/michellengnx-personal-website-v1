@@ -2,7 +2,7 @@
 
 ---
 
-Michelle is an aspiring developer who is passionate about finding creative solutions for real-life applications. As a life-long learner, she often finds herself seeking out every opportunities to acquire new skills and learn from other people. Michelle is pursuing a Bachelor of Science in Computer Science at the University of Toronto and has extensive experience developing web apps professionally. She is actively searching for internship opportunities in the Summer of 2023. 
+Michelle is an motivated individual who is passionate about finding creative solutions for real-life applications. As a life-long learner, she often finds herself seeking out every opportunities to acquire new skills and learn from other people. Michelle is pursuing a Bachelor of Science in Computer Science at the University of Toronto and has extensive experience developing web apps professionally. She is actively searching for internship opportunities in the Summer of 2023. 
 
 
 ## Who Am I?
